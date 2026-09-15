@@ -1,5 +1,7 @@
 # Human-Activity-Recognition-Using-Mobile-Sensor-Data - Walking vs Standing
 
+<img width="1536" height="1024" alt="ChatGPT Image Sep 15, 2026, 02_48_58 PM" src="https://github.com/user-attachments/assets/ef499825-a977-475c-a879-110075971fbc" />
+
 This project focuses on detecting **Walking and Standing activities** using Inertial Measurement Unit (IMU) sensor data and traditional Machine Learning techniques.
 
 The dataset contains accelerometer and gyroscope measurements collected at approximately **10 Hz**. The main objective is to extract meaningful time-domain features from sensor signals and build a machine learning model that can distinguish between walking and standing.
