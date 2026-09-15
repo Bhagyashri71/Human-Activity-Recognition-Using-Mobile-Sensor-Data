@@ -17,7 +17,7 @@ The dataset contains:
 
 Additional features such as acceleration magnitude, gyroscope magnitude, and frame-to-frame magnitude changes are derived during preprocessing.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ Additional features such as acceleration magnitude, gyroscope magnitude, and fra
 - Google Colab
 
 ## Machine Learning Approach
-## ⚙️ Methodology
+## Methodology
 
 The project follows the pipeline:
 
